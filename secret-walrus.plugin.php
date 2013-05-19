@@ -1,5 +1,7 @@
 <?php
 
+	namespace Habari;
+
 	class SecretWalrus extends Plugin {
 
 		public function configure() {
